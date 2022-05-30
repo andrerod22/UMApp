@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319759620043",
+    "project_id": "umapp-3dce0",
+    "storage_bucket": "umapp-3dce0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319759620043:android:977800ac0341048de4c84e",
+        "android_client_info": {
+          "package_name": "com.umapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319759620043-rs3kh0ju2gqe0hik4dmknu59d55te17c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuNypSIdxY6pejJJ27btTNn7twJKBJC0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319759620043-rs3kh0ju2gqe0hik4dmknu59d55te17c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
